@@ -1,1 +1,0 @@
-import{b as s}from"./index.15432856.js";import{a}from"./index.2cf0d985.js";const t=a.create({baseURL:"https://stock.anno189.com"});var e=s(({app:o})=>{o.config.globalProperties.$axios=a,o.config.globalProperties.$api=t});export{t as api,e as default};
