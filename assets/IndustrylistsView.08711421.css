@@ -1,0 +1,1 @@
+.my-sticky-column-table thead tr:first-child th:first-child{background-color:#fff}.my-sticky-column-table td:first-child{background-color:beige}.my-sticky-column-table th:first-child,.my-sticky-column-table td:first-child{position:sticky;left:0;z-index:1}.top-title{z-index:100}
