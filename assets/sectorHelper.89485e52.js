@@ -1,0 +1,1 @@
+import{i as u,m as o,b1 as s}from"./index.esm.min.5835493e.js";function d(e,a,n){var r=e.get("borderRadius");if(r==null)return n?{cornerRadius:0}:null;u(r)||(r=[r,r,r,r]);var i=Math.abs(a.r||0-a.r0||0);return{cornerRadius:o(r,function(t){return s(t,i)})}}export{d as g};

@@ -1,1 +1,0 @@
-import{b as e}from"./index.dae6810d.js";import{a}from"./axios.49e4da64.js";const i=a.create({timeout:15e3,withCredentials:!1,headers:{}});var s=e(({app:o})=>{o.config.globalProperties.$axios=a,o.config.globalProperties.$api=i});export{i as api,s as default};
